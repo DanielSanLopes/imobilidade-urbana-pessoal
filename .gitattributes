@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Library/Bee/artifacts/WebGL/GameAssembly/master_webGL_wasm/GameAssembly.a filter=lfs diff=lfs merge=lfs -text
+Library/Bee/artifacts/WebGL/il2cppOutput/build/GameAssembly.a filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.burst@1.8.7/.Runtime/libburst-llvm-15.dylib filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.toolchain.win-x86_64-linux-x86_64@2.0.6/data~/payload.tar.7z filter=lfs diff=lfs merge=lfs -text
