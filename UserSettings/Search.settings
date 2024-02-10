@@ -1,0 +1,111 @@
+trackSelection = true
+refreshSearchWindowsInPlayMode = false
+fetchPreview = true
+defaultFlags = 0
+keepOpen = false
+queryFolder = "Assets"
+onBoardingDoNotAskAgain = true
+showPackageIndexes = false
+showStatusBar = false
+scopes = {
+	"picker_window_position_offset.E30DD90A" = "87;401;320;550"
+	"picker_search_text.E30DD90A" = "sq"
+	"last_search.E30DD90A" = "sq"
+	"OpenInspectorPreview.E30DD90A" = "0"
+	"currentGroup.E30DD90A" = "all"
+	"picker_window_position_offset.6BF7FE6C" = "87;368;320;550"
+	"picker_search_text.6BF7FE6C" = "t:Material "
+	"last_search.6BF7FE6C" = "t:Material "
+	"OpenInspectorPreview.6BF7FE6C" = "0"
+	"currentGroup.6BF7FE6C" = "all"
+	"picker_window_position_offset.F28F6D59" = "87;401;320;550"
+	"picker_search_text.F28F6D59" = "t:AnimationClip "
+	"last_search.F28F6D59" = "t:AnimationClip "
+	"OpenInspectorPreview.F28F6D59" = "0"
+	"currentGroup.F28F6D59" = "all"
+	"picker_window_position_offset.256D096E" = "87;401;320;550"
+	"picker_search_text.256D096E" = "t:Camera "
+	"last_search.256D096E" = "t:Camera "
+	"OpenInspectorPreview.256D096E" = "0"
+	"currentGroup.256D096E" = "all"
+	"picker_window_position_offset.5B2C1353" = "87;306;320;550"
+	"picker_search_text.5B2C1353" = "t:AudioMixerGroup "
+	"last_search.5B2C1353" = "t:AudioMixerGroup "
+	"OpenInspectorPreview.5B2C1353" = "0"
+	"currentGroup.5B2C1353" = "all"
+	"picker_window_position_offset.233709E7" = "87;282;320;550"
+	"picker_search_text.233709E7" = "t:AudioMixerEffectController"
+	"last_search.233709E7" = "t:AudioMixerEffectController"
+	"OpenInspectorPreview.233709E7" = "0"
+	"currentGroup.233709E7" = "all"
+	"picker_window_position_offset.48A820F0" = "308;345;320;550"
+	"picker_search_text.48A820F0" = "t:SignalReceiver "
+	"last_search.48A820F0" = "t:SignalReceiver "
+	"OpenInspectorPreview.48A820F0" = "0"
+	"currentGroup.48A820F0" = "all"
+}
+providers = {
+	find = {
+		active = true
+		priority = 25
+		defaultAction = null
+	}
+	performance = {
+		active = false
+		priority = 100
+		defaultAction = null
+	}
+	scene = {
+		active = true
+		priority = 50
+		defaultAction = null
+	}
+	profilermarkers = {
+		active = false
+		priority = 100
+		defaultAction = null
+	}
+	log = {
+		active = false
+		priority = 210
+		defaultAction = null
+	}
+	adb = {
+		active = false
+		priority = 2500
+		defaultAction = null
+	}
+	packages = {
+		active = true
+		priority = 90
+		defaultAction = null
+	}
+	store = {
+		active = true
+		priority = 100
+		defaultAction = null
+	}
+	asset = {
+		active = true
+		priority = 25
+		defaultAction = null
+	}
+}
+objectSelectors = {
+}
+recentSearches = [
+	""
+]
+searchItemFavorites = [
+]
+savedSearchesSortOrder = 0
+showSavedSearchPanel = false
+hideTabs = false
+expandedQueries = [
+]
+queryBuilder = false
+ignoredProperties = "id;name;classname;imagecontentshash"
+helperWidgetCurrentArea = "all"
+disabledIndexers = ""
+minIndexVariations = 2
+findProviderIndexHelper = true
