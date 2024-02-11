@@ -1,8 +1,10 @@
 Imobilidade Urbana
 ---
 
+Eu e mais alguns colegas desenvolvemos este jogo. Colaborei como o principal programador, desenvolvendo mecânicas, sistema de quests, gerencimento de inputs, etc... 
 
-## Como publicar a versão alpha
+
+## Como publicar
 
 Basta compilar o jogo com o target `WebGL` e salvar os arquivos
 na pasta `docs/`. Ao realizar o `git push` da pasta `docs/` o
