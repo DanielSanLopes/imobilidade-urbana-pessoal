@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{61E9F4D6-00C8-3506-E2FC-826EC0B9B8F2}</ProjectGuid>
+    <ProjectGuid>{8DD7F5AF-8379-EE19-50CD-420B9A12EEB5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -913,7 +913,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{FA47AFEF-3165-4603-167B-0D307F6F0D3B}</Project>
+      <Project>{D435B02C-B318-9055-F546-EF5C6F4C58D4}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
   </ItemGroup>
