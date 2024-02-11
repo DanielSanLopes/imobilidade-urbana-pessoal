@@ -9,7 +9,9 @@ class Build
             // TODO: Descomentar assim que a intro conectar-se ao TrainScene
             "Assets/Game/Scenes/IntroductionScene.unity",
             "Assets/Game/Scenes/TrainScene.unity",
-            "Assets/Game/Scenes/GameOverScene.unity"
+            "Assets/Game/Scenes/GameOverScene.unity",
+            "Assets/Game/Scenes/EndingScene.unity",
+            "Assets/Game/Scenes/TitleScene.unity"
         };
         opts.locationPathName = "docs/";
         opts.target = BuildTarget.WebGL;
