@@ -3,7 +3,9 @@ Imobilidade Urbana
 
 Eu e mais alguns colegas fizemos este jogo. Colaborei como o principal programador, desenvolvendo mecânicas, sistema de quests, gerencimento de inputs, animações por script, correções de assets/códigos/cenas/animações, entre outros. 
 
+
 Link do jogo:
+
 https://danielsanlopes.github.io/imobilidade-urbana-pessoal
 
 ## Como publicar
