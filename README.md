@@ -1,7 +1,7 @@
 Imobilidade Urbana
 ---
 
-Eu e mais alguns colegas fizemos este jogo. Colaborei como o principal programador, desenvolvendo mecânicas, sistema de quests, gerencimento de inputs, animações por script, entre outros. 
+Eu e mais alguns colegas fizemos este jogo. Colaborei como o principal programador, desenvolvendo mecânicas, sistema de quests, gerencimento de inputs, animações por script, correções de assets/códigos/cenas/animações, entre outros. 
 
 
 ## Como publicar
